@@ -1,0 +1,1 @@
+A simple exercise to build the replica of word resume in html and css!
